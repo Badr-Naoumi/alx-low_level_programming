@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
  * main - The main function of the program.
  * Return: 0 (Success)
